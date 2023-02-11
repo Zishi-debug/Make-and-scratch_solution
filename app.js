@@ -1,10 +1,10 @@
 const https = require('https');
 const JSSoup = require('jssoup').default;
 const fs = require('fs');
-const url = 'https://en.wikipedia.org/wiki/Male_gaze';
+const url = 'https://en.wikipedia.org/wiki/Platonic_love';
 const jsonPath = "./json/"; 
 const imagePath = "./images/"; 
-const name = "Male gaze";
+const name = "Platonic love";
 
 
 /*
@@ -60,7 +60,7 @@ function getParagraphs(soupTag){
         //let text = paragraphs[i].getText();
         let p = paragraphs[i].getText().toLowerCase();
 
-        if(p.indexOf("otaku") != -1){
+        if(p.indexOf("Platonic love") != -1){
            console.log(p);
            text += p;
         }
