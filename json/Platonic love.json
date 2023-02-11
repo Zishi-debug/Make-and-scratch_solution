@@ -1,0 +1,1873 @@
+{
+  "name": "Platonic love",
+  "url": "https://en.wikipedia.org/wiki/Platonic_love",
+  "content": {
+    "externalLinks": [
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Citing_sources",
+        "text": "references"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Citing_sources#Inline_citations",
+        "text": "inline citations"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Reliability",
+        "text": "improve"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:When_to_cite",
+        "text": "introducing"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Help:Maintenance_template_removal",
+        "text": "Learn how and when to remove this template message"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:People_together.svg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Interpersonal_relationship",
+        "text": "Relationships"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Outline_of_relationships",
+        "text": "Outline"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Genetic_genealogy",
+        "text": "Genetic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Adoption",
+        "text": "adoptive"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kinship",
+        "text": "Kinship"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Family",
+        "text": "Family"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Parent",
+        "text": "Parent"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Father",
+        "text": "father"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mother",
+        "text": "mother"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Grandparent",
+        "text": "Grandparent"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sibling",
+        "text": "Sibling"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cousin",
+        "text": "Cousin"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Marriage",
+        "text": "marriage"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Spouse",
+        "text": "Spouse"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Husband",
+        "text": "Husband"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wife",
+        "text": "Wife"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Open_marriage",
+        "text": "Open marriage"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Polygamy",
+        "text": "Polygamy"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Polyandry",
+        "text": "Polyandry"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Polygyny",
+        "text": "Polygyny"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Group_marriage",
+        "text": "Group marriage"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mixed-orientation_marriage",
+        "text": "Mixed-orientation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Significant_other",
+        "text": "Significant other"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Boyfriend",
+        "text": "Boyfriend"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Girlfriend",
+        "text": "Girlfriend"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cohabitation",
+        "text": "Cohabitation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Same-sex_relationship",
+        "text": "Same-sex"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Significant_other",
+        "text": "Life partner"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Friendship",
+        "text": "Friendship"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Romantic_friendship",
+        "text": "romantic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cross-sex_friendship",
+        "text": "cross-sex"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Friend_zone",
+        "text": "zone"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Intimate_relationship",
+        "text": "Intimate"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sexual_partner",
+        "text": "sexual"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Casual_sex",
+        "text": "Casual"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Monogamy",
+        "text": "Monogamy"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Non-monogamy",
+        "text": "Non-monogamy"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mutual_monogamy",
+        "text": "Mutual monogamy"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Polyamory",
+        "text": "Polyamory"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Polyfidelity",
+        "text": "Polyfidelity"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cicisbeo",
+        "text": "Cicisbeo"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Concubinage",
+        "text": "Concubinage"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Courtesan",
+        "text": "Courtesan"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mistress_(lover)",
+        "text": "Mistress"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Human_bonding",
+        "text": "Bonding"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Courtship",
+        "text": "Courtship"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Dating",
+        "text": "Dating"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Engagement",
+        "text": "Engagement"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bachelor%27s_Day_(tradition)",
+        "text": "Bachelor's Day"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Human_mating_strategies",
+        "text": "Mating"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Meet_market",
+        "text": "Meet market"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Romance_(love)",
+        "text": "Romance"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Singles_event",
+        "text": "Singles event"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wedding",
+        "text": "Wedding"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Breakup",
+        "text": "Breakup"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Legal_separation",
+        "text": "Legal"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Marital_separation",
+        "text": "marital separation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Annulment",
+        "text": "Annulment"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Divorce",
+        "text": "Divorce"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Widow",
+        "text": "Widowhood"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Emotion",
+        "text": "Emotions and feelings"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Affinity_(sociology)",
+        "text": "Affinity"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Attachment_in_adults",
+        "text": "Attachment"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Intimate_relationship",
+        "text": "Intimacy"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Jealousy",
+        "text": "Jealousy"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Limerence",
+        "text": "Limerence"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Love",
+        "text": "Love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Unconditional_love",
+        "text": "Unconditional"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Passion_(emotion)",
+        "text": "Passion"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Human_sexuality",
+        "text": "Sexuality"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bride_price",
+        "text": "Bride price"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Dower",
+        "text": "dower"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Dowry",
+        "text": "dowry"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bride_service",
+        "text": "service"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hypergamy",
+        "text": "Hypergamy"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Infidelity",
+        "text": "Infidelity"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Human_sexual_activity",
+        "text": "Sexual activity"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Relational_transgression",
+        "text": "Transgression"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sexual_repression",
+        "text": "Repression"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Abuse",
+        "text": "Abuse"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Child_abuse",
+        "text": "Child"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Dating_violence",
+        "text": "Dating"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Domestic_violence",
+        "text": "Domestic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Elder_abuse",
+        "text": "Elderly"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Narcissistic_parent",
+        "text": "Narcissistic parent"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Abusive_power_and_control",
+        "text": "Power and control"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Stalking",
+        "text": "Stalking"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template:Close_relationships",
+        "text": "v"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template_talk:Close_relationships",
+        "text": "t"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Love",
+        "text": "a series"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Love",
+        "text": "Love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Heart_icon_red_hollow.svg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Affection",
+        "text": "Affection"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Human_bonding",
+        "text": "Bonding"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Broken_heart",
+        "text": "Broken heart"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Compassionate_love",
+        "text": "Compassionate love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Conjugal_love",
+        "text": "Conjugal love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Courtly_love",
+        "text": "Courtly love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Courtship",
+        "text": "courtship"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Troubadour",
+        "text": "troubadours"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Falling_in_love",
+        "text": "Falling in love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Friendship",
+        "text": "Friendship"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cross-sex_friendship",
+        "text": "cross-sex"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Romantic_friendship",
+        "text": "romantic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Friend_zone",
+        "text": "zone"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Interpersonal_relationship",
+        "text": "Interpersonal relationship"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Intimate_relationship",
+        "text": "Intimacy"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Limerence",
+        "text": "Limerence"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Love_addiction",
+        "text": "Love addiction"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Love_at_first_sight",
+        "text": "Love at first sight"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Love_triangle",
+        "text": "Love triangle"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lovesickness",
+        "text": "Lovesickness"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lovestruck",
+        "text": "Lovestruck"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Obsessive_love",
+        "text": "Obsessive love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Passion_(emotion)",
+        "text": "Passion"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Puppy_love",
+        "text": "Puppy love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Interpersonal_relationship",
+        "text": "Relationship"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Romance_(love)",
+        "text": "Romance"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Self-love",
+        "text": "Self-love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Amour_de_soi",
+        "text": "Amour de soi"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Unconditional_love",
+        "text": "Unconditional love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Unrequited_love",
+        "text": "Unrequited love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anarchism_and_issues_related_to_love_and_sex",
+        "text": "Anarchist"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Free_love",
+        "text": "Free love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ren_(Confucianism)",
+        "text": "Ren"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Yuanfen",
+        "text": "Yuanfen"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Amour-propre",
+        "text": "Amour-propre"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Greek_love",
+        "text": "Greek"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Greek_words_for_love",
+        "text": "words for love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Agape",
+        "text": "Agape"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Eros_(concept)",
+        "text": "Eros"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Color_wheel_theory_of_love#Ludus",
+        "text": "Ludus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Color_wheel_theory_of_love#Mania",
+        "text": "Mania"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Self-love",
+        "text": "Philautia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Philia",
+        "text": "Philia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Trust_(social_science)",
+        "text": "Philos"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Color_wheel_theory_of_love#Pragma",
+        "text": "Pragma"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Storge",
+        "text": "Storge"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Xenia_(Greek)",
+        "text": "Xenia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Kama",
+        "text": "Kama"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bhakti",
+        "text": "Bhakti"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Maitr%C4%AB",
+        "text": "Maitrī"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ishq",
+        "text": "Ishq"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Jewish_views_on_love",
+        "text": "Jewish"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Chesed",
+        "text": "Chesed"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cupid",
+        "text": "Amor"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Charity_(virtue)",
+        "text": "Charity"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Saudade",
+        "text": "Saudade"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mamihlapinatapai",
+        "text": "Mamihlapinatapai"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Color_wheel_theory_of_love",
+        "text": "Color wheel theory of love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Biological_basis_of_love",
+        "text": "Biological basis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Love_letter",
+        "text": "Love letter"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Love_magic",
+        "text": "Love magic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Valentine%27s_Day",
+        "text": "Valentine's Day"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Philosophy_of_love",
+        "text": "Philosophy"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Religious_views_on_love",
+        "text": "Religious views"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_love_and_lust_deities",
+        "text": "love deities"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Mere-exposure_effect",
+        "text": "Mere-exposure effect"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Similarity_(psychology)",
+        "text": "Similarity"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Physical_attractiveness",
+        "text": "Physical attractiveness"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Triangular_theory_of_love",
+        "text": "Triangular theory of love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template:Love_sidebar",
+        "text": "v"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template_talk:Love_sidebar",
+        "text": "t"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Love",
+        "text": "love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Human_sexuality",
+        "text": "sexual desire"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Romance_(love)",
+        "text": "romantic features"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Friendship",
+        "text": "friendship"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Greek_philosopher",
+        "text": "Greek philosopher"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Plato",
+        "text": "Plato"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Please_clarify",
+        "text": "clarification needed"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Romance_(love)",
+        "text": "romantic love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Symposium_(Plato)",
+        "text": "Symposium"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Eros_(concept)",
+        "text": "Eros"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Socrates",
+        "text": "Socrates"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Diotima_of_Mantinea",
+        "text": "Diotima"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Divinity",
+        "text": "divinity"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Virtue",
+        "text": "virtue"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Divine_love",
+        "text": "divine love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Philosophy",
+        "text": "philosophy"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Linguistic_relativity",
+        "text": "linguistic relativity"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Georgios_Gemistos_Plethon",
+        "text": "Georgios Gemistos Plethon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Marsilio_Ficino",
+        "text": "Marsilio Ficino"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Renaissance",
+        "text": "Renaissance"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Heterosexuality",
+        "text": "heterosexual"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/William_Davenant",
+        "text": "William Davenant"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Platonick_Lovers",
+        "text": "The Platonick Lovers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Charles_I_of_England",
+        "text": "Charles I"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Henrietta_Maria_of_France",
+        "text": "Henrietta Maria"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Masque",
+        "text": "masques"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Caroline_era",
+        "text": "Caroline era"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Eros_(concept)",
+        "text": "Eros"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Philia",
+        "text": "Philia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Storge",
+        "text": "Storge"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Agape",
+        "text": "Agape"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ludus_(ancient_Rome)",
+        "text": "Ludus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pragma_(love)",
+        "text": "Pragma"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Self-love",
+        "text": "Philautia"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hubris",
+        "text": "hubris"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:NOTRS",
+        "text": "better&#160;source&#160;needed"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions",
+        "text": "according to whom?"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Love",
+        "text": "love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Friendship",
+        "text": "friendship"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Queerplatonic_relationship",
+        "text": "Queerplatonic relationship"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Aromanticism",
+        "text": "aromantic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Asexuality",
+        "text": "asexual"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/LGBT_community",
+        "text": "LGBT community"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Intimate_relationship",
+        "text": "intimate relationships"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Significant_other",
+        "text": "significant others"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Julie_Sondra_Decker",
+        "text": "Julie Sondra Decker"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Queering",
+        "text": "queered"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Plato_i_sin_akademi,_av_Carl_Johan_Wahlbom_(ur_Svenska_Familj-Journalen).png",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Plato_i_sin_akademi,_av_Carl_Johan_Wahlbom_(ur_Svenska_Familj-Journalen).png",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Plato",
+        "text": "Plato"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Attraction_(emotion)",
+        "text": "Attraction"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Casual_dating",
+        "text": "Casual dating"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Childhood_sweetheart",
+        "text": "Childhood sweetheart"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Emotional_affair",
+        "text": "Emotional affair"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fraternization",
+        "text": "Fraternization"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Greek_love",
+        "text": "Greek love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Homosexuality",
+        "text": "Homosexuality"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Heterosociality",
+        "text": "Heterosociality"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Infatuation",
+        "text": "Infatuation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Interpersonal_attraction",
+        "text": "Interpersonal attraction"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Interpersonal_communication",
+        "text": "Interpersonal communication"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Puppy_love",
+        "text": "Puppy love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Queerplatonic_relationship",
+        "text": "Queerplatonic relationship"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Relationship_anarchy",
+        "text": "Relationship anarchy"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Romantic_friendship",
+        "text": "Romantic friendship"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Soulmate",
+        "text": "Soulmate"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Work_spouse",
+        "text": "Work spouse"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/The_Chicago_Manual_of_Style",
+        "text": "The Chicago Manual of Style"
+      },
+      {
+        "href": "https://www.merriam-webster.com/dictionary/platonic%20love",
+        "text": "\"platonic love\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Merriam-Webster",
+        "text": "Merriam-Webster Dictionary"
+      },
+      {
+        "href": "https://psychcentral.com/relationships/platonic-relationship",
+        "text": "\"This Is Platonic Love\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Psych_Central",
+        "text": "Psych Central"
+      },
+      {
+        "href": "https://archive.org/details/merriamwebstersc01merr",
+        "text": "Merriam-Webster's collegiate dictionary: Tenth Edition"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-08-7779-709-8",
+        "text": "978-08-7779-709-8"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/0-226-04275-8",
+        "text": "0-226-04275-8"
+      },
+      {
+        "href": "https://www.psychologytoday.com/us/blog/hide-and-seek/201606/these-are-the-7-types-love",
+        "text": "\"These Are the 7 Types of Love\""
+      },
+      {
+        "href": "https://www.sciencedaily.com/terms/platonic_love.htm",
+        "text": "\"Platonic love\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1177%2F0265407500171004",
+        "text": "10.1177/0265407500171004"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/S2CID_(identifier)",
+        "text": "S2CID"
+      },
+      {
+        "href": "https://api.semanticscholar.org/CorpusID:145745343",
+        "text": "145745343"
+      },
+      {
+        "href": "https://neologisms.blogs.wm.edu/2016/03/14/queerplatonic/",
+        "text": "\"Queerplatonic\""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1002%2Fcasp.2203",
+        "text": "10.1002/casp.2203"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Journal_of_Homosexuality",
+        "text": "Journal of Homosexuality"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1300%2FJ082v16n01_03",
+        "text": "10.1300/J082v16n01_03"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/PMID_(identifier)",
+        "text": "PMID"
+      },
+      {
+        "href": "https://pubmed.ncbi.nlm.nih.gov/3069924",
+        "text": "3069924"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gert_Hekma",
+        "text": "Hekma, Gert"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/978-0-918393-49-4",
+        "text": "978-0-918393-49-4"
+      },
+      {
+        "href": "https://www.psychologytoday.com/us/blog/hide-and-seek/201606/these-are-the-7-types-love",
+        "text": "These Are the 7 Types of Love."
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Doi_(identifier)",
+        "text": "doi"
+      },
+      {
+        "href": "https://doi.org/10.1177%2F0265407500171004",
+        "text": "10.1177/0265407500171004"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/08-7779-709-9",
+        "text": "08-7779-709-9"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/ISBN_(identifier)",
+        "text": "ISBN"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Special:BookSources/0-226-04275-8",
+        "text": "0-226-04275-8"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Wikisource",
+        "text": "Wikisource"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition",
+        "text": "1911 Encyclopædia Britannica"
+      },
+      {
+        "href": "https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Platonic_Love",
+        "text": "Platonic Love"
+      },
+      {
+        "href": "https://plato.stanford.edu/entries/plato-friendship/",
+        "text": "Plato on Friendship and Eros"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Stanford_Encyclopedia_of_Philosophy",
+        "text": "Stanford Encyclopedia of Philosophy"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template:Human_sexuality",
+        "text": "v"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template_talk:Human_sexuality",
+        "text": "t"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Human_sexuality",
+        "text": "Human sexuality"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sexology",
+        "text": "sexology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Asexuality",
+        "text": "Asexuality"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gray_asexuality",
+        "text": "Gray asexuality"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Demisexuality",
+        "text": "Demisexuality"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Bisexuality",
+        "text": "Bisexuality"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Pansexuality",
+        "text": "Pansexuality"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Casual_dating",
+        "text": "Casual relationship"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Casual_sex",
+        "text": "Casual sex"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Celibacy",
+        "text": "Celibacy"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Celibacy_syndrome",
+        "text": "Celibacy syndrome"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Herbivore_men",
+        "text": "Herbivore men"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Committed_relationship",
+        "text": "Committed relationship"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Conventional_sex",
+        "text": "Conventional sex"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Free_love",
+        "text": "Free love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Foreplay",
+        "text": "Foreplay"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Heterosexuality",
+        "text": "Heterosexuality"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Homosexuality",
+        "text": "Homosexuality"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hypersexuality",
+        "text": "Hypersexuality"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Marriage",
+        "text": "Marriage"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/One-night_stand",
+        "text": "One-night stand"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Polyamory",
+        "text": "Polyamory"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Promiscuity",
+        "text": "Promiscuity"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Female_promiscuity",
+        "text": "Female"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Romance_(love)",
+        "text": "Romantic love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Romantic_orientation",
+        "text": "Romantic orientation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Flirting",
+        "text": "Flirting"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sex_life",
+        "text": "Sex life"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sexual_abstinence",
+        "text": "Sexual abstinence"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sexual_orientation",
+        "text": "Sexual orientation"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sexual_partner",
+        "text": "Sexual partner"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Single_person",
+        "text": "Single person"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Swinging_(sexual_practice)",
+        "text": "Swinging"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hypergamy",
+        "text": "Hypergamy"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Physical_attractiveness",
+        "text": "Physical attractiveness"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sexual_attraction",
+        "text": "Sexual attraction"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sexual_capital",
+        "text": "Sexual capital"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sexual_ethics",
+        "text": "Sexual ethics"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sexual_frustration",
+        "text": "Sexual frustration"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sociosexuality",
+        "text": "Sociosexuality"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Right_to_sexuality",
+        "text": "Right to sexuality"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sexecology",
+        "text": "Sexecology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sexual_addiction",
+        "text": "Sexual addiction"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sex_Addicts_Anonymous",
+        "text": "Sex Addicts Anonymous"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sexual_jealousy",
+        "text": "Sexual jealousy"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sexual_norm",
+        "text": "Sexual norm"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sex-positive_feminism",
+        "text": "Sex-positive feminism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sex-positive_movement",
+        "text": "Sex-positive movement"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sexual_revolution",
+        "text": "Sexual revolution"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sexual_surrogate",
+        "text": "Sexual surrogate"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template:Plato_navbox",
+        "text": "v"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Template_talk:Plato_navbox",
+        "text": "t"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Plato",
+        "text": "Plato"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Apology_(Plato)",
+        "text": "Apology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Charmides_(dialogue)",
+        "text": "Charmides"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Clitophon_(dialogue)",
+        "text": "Clitophon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cratylus_(dialogue)",
+        "text": "Cratylus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Critias_(dialogue)",
+        "text": "Critias"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Crito",
+        "text": "Crito"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Euthydemus_(dialogue)",
+        "text": "Euthydemus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Euthyphro",
+        "text": "Euthyphro"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/First_Alcibiades",
+        "text": "First Alcibiades"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Gorgias_(dialogue)",
+        "text": "Gorgias"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hippias_Major",
+        "text": "Hippias Major"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hippias_Minor",
+        "text": "Hippias Minor"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ion_(dialogue)",
+        "text": "Ion"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Laches_(dialogue)",
+        "text": "Laches"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Laws_(dialogue)",
+        "text": "Laws"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Lysis_(dialogue)",
+        "text": "Lysis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Menexenus_(dialogue)",
+        "text": "Menexenus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Meno",
+        "text": "Meno"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Parmenides_(dialogue)",
+        "text": "Parmenides"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Phaedo",
+        "text": "Phaedo"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Phaedrus_(dialogue)",
+        "text": "Phaedrus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Philebus",
+        "text": "Philebus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Protagoras_(dialogue)",
+        "text": "Protagoras"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Republic_(Plato)",
+        "text": "Republic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sophist_(dialogue)",
+        "text": "Sophist"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Statesman_(dialogue)",
+        "text": "Statesman"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Symposium_(Plato)",
+        "text": "Symposium"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Theaetetus_(dialogue)",
+        "text": "Theaetetus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Timaeus_(dialogue)",
+        "text": "Timaeus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Axiochus_(dialogue)",
+        "text": "Axiochus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Definitions_(Plato)",
+        "text": "Definitions"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Demodocus_(dialogue)",
+        "text": "Demodocus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Epigrams_(Plato)",
+        "text": "Epigrams"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Epinomis",
+        "text": "Epinomis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Epistles_(Plato)",
+        "text": "Epistles"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/First_Letter_(Plato)",
+        "text": "Letter I"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Second_Letter_(Plato)",
+        "text": "II"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Epistles_(Plato)#Third_Letter",
+        "text": "III"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fourth_Letter_(Plato)",
+        "text": "IV"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Fifth_Letter_(Plato)",
+        "text": "V"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sixth_Letter_(Plato)",
+        "text": "VI"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Seventh_Letter",
+        "text": "VII"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Epistles_(Plato)#Eighth_Letter",
+        "text": "VIII"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ninth_Letter_(Plato)",
+        "text": "IX"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Tenth_Letter_(Plato)",
+        "text": "X"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Eleventh_Letter_(Plato)",
+        "text": "XI"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Twelfth_Letter",
+        "text": "XII"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Epistles_(Plato)#Thirteenth_Letter",
+        "text": "XIII"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Eryxias_(dialogue)",
+        "text": "Eryxias"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Halcyon_(dialogue)",
+        "text": "Halcyon"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hipparchus_(dialogue)",
+        "text": "Hipparchus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Minos_(dialogue)",
+        "text": "Minos"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/On_Justice",
+        "text": "On Justice"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/On_Virtue",
+        "text": "On Virtue"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Rival_Lovers",
+        "text": "Rival Lovers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Second_Alcibiades",
+        "text": "Second Alcibiades"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sisyphus_(dialogue)",
+        "text": "Sisyphus"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Theages",
+        "text": "Theages"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/File:Plato_Silanion_Musei_Capitolini_MC1377.jpg",
+        "text": ""
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Platonism",
+        "text": "Philosophy"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Euthyphro_dilemma",
+        "text": "Euthyphro dilemma"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cardinal_virtues",
+        "text": "Cardinal virtues"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Sophrosyne",
+        "text": "Sophrosyne"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Platonic_epistemology",
+        "text": "Platonic epistemology"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anamnesis_(philosophy)",
+        "text": "Amanesis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Peritrope",
+        "text": "Peritrope"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Divine_madness",
+        "text": "Theia mania"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Theory_of_forms",
+        "text": "Theory of Forms"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Form_of_the_Good",
+        "text": "Form of the Good"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Plato%27s_theory_of_soul",
+        "text": "Theory of soul"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Plato%27s_political_philosophy",
+        "text": "Plato's political philosophy"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Philosopher_king",
+        "text": "Philosopher king"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Platonic_solid",
+        "text": "Platonic solid"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Anima_mundi",
+        "text": "Anima mundi"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Demiurge",
+        "text": "Demiurge"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Hyperuranion",
+        "text": "Hyperuranion"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Allegorical_interpretations_of_Plato",
+        "text": "Allegoriesand metaphors"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Atlantis",
+        "text": "Atlantis"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ring_of_Gyges",
+        "text": "Ring of Gyges"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Allegory_of_the_Cave",
+        "text": "The Cave"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Analogy_of_the_divided_line",
+        "text": "The Divided Line"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Analogy_of_the_sun",
+        "text": "The Sun"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Ship_of_State",
+        "text": "Ship of State"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Myth_of_Er",
+        "text": "Myth of Er"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Life_of_Plato",
+        "text": "Life"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Platonic_Academy",
+        "text": "The Academy in Athens"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Socratic_problem",
+        "text": "Socratic problem"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_speakers_in_Plato%27s_dialogues",
+        "text": "List of speakers in Plato's dialogues"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Plato%27s_unwritten_doctrines",
+        "text": "Unwritten doctrines"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/List_of_manuscripts_of_Plato%27s_dialogues",
+        "text": "List of manuscripts of Plato's dialogues"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Cultural_influence_of_Plato%27s_Republic",
+        "text": "Cultural influence of Plato's Republic"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Neoplatonism_and_Gnosticism",
+        "text": "Neoplatonism and Gnosticism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Platonism_in_the_Renaissance",
+        "text": "Platonism in the Renaissance"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Middle_Platonism",
+        "text": "Middle Platonism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Commentaries_on_Plato",
+        "text": "Commentaries"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Neoplatonism",
+        "text": "Neoplatonism"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Neoplatonism_and_Christianity",
+        "text": "and Christianity"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Oxyrhynchus_Papyri#Greek",
+        "text": "Oxyrhynchus Papyri"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Papyrus_Oxyrhynchus_23",
+        "text": "23"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Papyrus_Oxyrhynchus_228",
+        "text": "228"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Papyrus_Oxyrhynchus_229",
+        "text": "229"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Plato%27s_Dream",
+        "text": "Plato's Dream"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Poitier_Meets_Plato",
+        "text": "Poitier Meets Plato"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Help:Authority_control",
+        "text": "Authority control"
+      },
+      {
+        "href": "https://www.wikidata.org/wiki/Q209041#identifiers",
+        "text": ""
+      },
+      {
+        "href": "https://d-nb.info/gnd/4246264-2",
+        "text": "Germany"
+      },
+      {
+        "href": "http://uli.nli.org.il/F/?func=find-b&amp;local_base=NLX10&amp;find_code=UID&amp;request=987007536246905171",
+        "text": "Israel"
+      },
+      {
+        "href": "https://id.loc.gov/authorities/subjects/sh85078527",
+        "text": "United States"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Help:Category",
+        "text": "Categories"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Friendship",
+        "text": "Friendship"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Love",
+        "text": "Love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Non-sexuality",
+        "text": "Non-sexuality"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Philosophy_of_love",
+        "text": "Philosophy of love"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_short_description",
+        "text": "Articles with short description"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Short_description_matches_Wikidata",
+        "text": "Short description matches Wikidata"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_lacking_in-text_citations_from_January_2014",
+        "text": "Articles lacking in-text citations from January 2014"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:All_articles_lacking_in-text_citations",
+        "text": "All articles lacking in-text citations"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Use_dmy_dates_from_October_2020",
+        "text": "Use dmy dates from October 2020"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Wikipedia_articles_needing_clarification_from_May_2020",
+        "text": "Wikipedia articles needing clarification from May 2020"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:All_articles_lacking_reliable_references",
+        "text": "All articles lacking reliable references"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_lacking_reliable_references_from_March_2022",
+        "text": "Articles lacking reliable references from March 2022"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases",
+        "text": "All articles with specifically marked weasel-worded phrases"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_June_2019",
+        "text": "Articles with specifically marked weasel-worded phrases from June 2019"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_GND_identifiers",
+        "text": "Articles with GND identifiers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_J9U_identifiers",
+        "text": "Articles with J9U identifiers"
+      },
+      {
+        "href": "https://en.wikipedia.org/wiki/Category:Articles_with_LCCN_identifiers",
+        "text": "Articles with LCCN identifiers"
+      }
+    ],
+    "text": [
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      "",
+      ""
+    ],
+    "imageNames": [
+      "40px-Text_document_with_red_question_mark.svg.png",
+      "50px-People_together.svg.png",
+      "45px-Heart_icon_red_hollow.svg.png",
+      "220px-Plato_i_sin_akademi%2C_av_Carl_Johan_Wahlbom_%28ur_Svenska_Familj-Journalen%29.png",
+      "38px-Wikisource-logo.svg.png",
+      "100px-Plato_Silanion_Musei_Capitolini_MC1377.jpg",
+      "10px-OOjs_UI_icon_edit-ltr-progressive.svg.png"
+    ]
+  }
+}
